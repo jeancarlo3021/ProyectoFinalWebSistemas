@@ -1,0 +1,44 @@
+.color {
+  background-color: #46C4AA;
+}
+
+.img-carta {
+  padding-top: 10px;
+  width: 310px;
+  height: 300px;
+  margin: auto;
+  border-radius: 10%;
+  background-color: rgba(220, 220, 220, 0.145);
+}
+
+.filter {
+  width: 20px;
+  height: 20px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.button_hidden {
+  background-color: #ffff;
+  border: 2px black
+}
+
+.space {
+  margin-top: 100px;
+  margin: 100px;
+}
+
+.dot{
+  color: #DFBA69
+}
+
+.p{
+  background-color: #4299e1 ;
+}
+
+.centerModal{
+    text-align: center;
+    margin-left: 50%;
+}
